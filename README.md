@@ -10,3 +10,6 @@
 
 ## Uebung 5
 <img width="1091" height="741" alt="Karte2" src="https://github.com/user-attachments/assets/2192f398-8a4e-4754-babd-78584edb6fa6" />
+
+## Uebung 6
+<img width="3508" height="2480" alt="Steglizter_kreisel" src="https://github.com/user-attachments/assets/0708127f-a236-45ff-983b-437084993cff" />
