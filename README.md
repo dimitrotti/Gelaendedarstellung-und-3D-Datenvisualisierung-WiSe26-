@@ -7,3 +7,6 @@
 
 ## Uebung 4
 <img width="1254" height="632" alt="Karte1" src="https://github.com/user-attachments/assets/ac972fa3-ccb5-4ade-9b88-97848c939a9c" />
+
+## Uebung 5
+<img width="1091" height="741" alt="Karte2" src="https://github.com/user-attachments/assets/2192f398-8a4e-4754-babd-78584edb6fa6" />
