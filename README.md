@@ -13,3 +13,8 @@
 
 ## Uebung 6
 <img width="3508" height="2480" alt="Steglizter_kreisel" src="https://github.com/user-attachments/assets/0708127f-a236-45ff-983b-437084993cff" />
+
+## Uebung 7
+<img width="3508" height="2480" alt="Layout" src="https://github.com/user-attachments/assets/de86ea15-91ad-4d7c-83e8-718eae17a6b7" />
+
+
